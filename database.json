@@ -1,0 +1,337 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Superman",
+      "email": "clarkkent@thedailyplanet.com",
+      "isHero": true,
+      "isAdmin": false
+    },
+    {
+      "id": 2,
+      "name": "Batman",
+      "email": "batbruce@wayne.enterprises.com",
+      "isHero": true,
+      "isAdmin": false
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "email": "wonder_w@gmail.com",
+      "isHero": true,
+      "isAdmin": false
+    },
+    {
+      "id": 4,
+      "name": "Green Lantern",
+      "email": "brightestday@gmail.com",
+      "isHero": true,
+      "isAdmin": false
+    },
+    {
+      "id": 5,
+      "name": "The Flash",
+      "email": "fastestman@gmail.com",
+      "isHero": true,
+      "isAdmin": false
+    },
+    {
+      "id": 6,
+      "name": "Aquaman",
+      "email": "fish_are_cool@gmail.com",
+      "isHero": true,
+      "isAdmin": false
+    },
+    {
+      "id": 7,
+      "name": "Green Arrow",
+      "email": "arrow@queen.industries.com",
+      "isHero": true,
+      "isAdmin": false
+    },
+    {
+      "id": 8,
+      "name": "Martian Manhunter",
+      "email": "marsman@wgmail.com",
+      "isHero": true,
+      "isAdmin": true
+    },
+    {
+      "id": 9,
+      "name": "Jim Gordon",
+      "email": "jimg@wgmail.com",
+      "isHero": false,
+      "isAdmin": false
+    },
+    {
+      "id": 10,
+      "name": "John Brady",
+      "email": "john@gmail.com",
+      "isHero": false,
+      "isAdmin": false
+    },
+    {
+      "id": 11,
+      "name": "Dan Brady",
+      "email": "dan@gmail.com",
+      "isHero": false,
+      "isAdmin": false
+    },
+    {
+      "id": 12,
+      "name": "Lois Lane",
+      "email": "loislane@thedailyplanet.com",
+      "isHero": false,
+      "isAdmin": false
+    },
+    {
+      "id": 13,
+      "name": "Steve Trevor",
+      "email": "steve@gmail.com",
+      "isHero": false,
+      "isAdmin": false
+    },
+    {
+      "id": 14,
+      "name": "Thomas Curry",
+      "email": "lightkeeper@gmail.com",
+      "isHero": false,
+      "isAdmin": false
+    },
+    {
+      "id": 15,
+      "name": "John Diggle",
+      "email": "diggle@queen.industries.com",
+      "isHero": false,
+      "isAdmin": false
+    }
+  ],
+  "citizens": [
+    {
+      "id": 1,
+      "address": "2802 Zula Locks",
+      "phoneNumber": "852-837-9713",
+      "userId": 9
+    },
+    {
+      "id": 2,
+      "address": "56849 Fadel Gateway",
+      "phoneNumber": "202-244-7090",
+      "userId": 10
+    },
+    {
+      "id": 3,
+      "address": "7346 Ritchie Road",
+      "phoneNumber": "(507) 720-1157",
+      "userId": 11
+    },
+    {
+      "id": 4,
+      "address": "56849 Fadel Gateway",
+      "phoneNumber": "202-244-7090",
+      "userId": 12
+    },
+    {
+      "id": 5,
+      "address": "56849 Fadel Gateway",
+      "phoneNumber": "202-244-7090",
+      "userId": 13
+    },
+    {
+      "id": 6,
+      "address": "56849 Fadel Gateway",
+      "phoneNumber": "202-244-7090",
+      "userId": 14
+    },
+    {
+      "id": 7,
+      "address": "56849 Fadel Gateway",
+      "phoneNumber": "202-244-7090",
+      "userId": 15
+    }
+  ],
+  "heroes": [
+    {
+      "id": 1,
+      "userId": 1,
+      "bio": "",
+      "photo": "",
+      "symbol": "",
+      "citiesId": 1,
+      "partnersName": "Krypto",
+      "partnersSymbol": ""
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "bio": "",
+      "photo": "",
+      "symbol": "",
+      "citiesId": 2,
+      "partnersName": "Robin",
+      "partnersSymbol": ""
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "bio": "",
+      "photo": "",
+      "symbol": "",
+      "citiesId": 3,
+      "partnersName": "Wonder Girl",
+      "partnersSymbol": ""
+    },
+    {
+      "id": 4,
+      "userId": 4,
+      "bio": "",
+      "photo": "",
+      "symbol": "",
+      "citiesId": 4,
+      "partnersName": "Green Lantern(John Stewart)",
+      "partnersSymbol": ""
+    },
+    {
+      "id": 5,
+      "userId": 5,
+      "bio": "",
+      "photo": "",
+      "symbol": "",
+      "citiesId": 5,
+      "partnersName": "Kid Flash",
+      "partnersSymbol": ""
+    },
+    {
+      "id": 6,
+      "userId": 6,
+      "bio": "",
+      "photo": "",
+      "symbol": "",
+      "citiesId": 6,
+      "partnersName": "Aqualad",
+      "partnersSymbol": ""
+    },
+    {
+      "id": 7,
+      "userId": 7,
+      "bio": "",
+      "photo": "",
+      "symbol": "",
+      "citiesId": 7,
+      "partnersName": "Black Canary",
+      "partnersSymbol": ""
+    },
+    {
+      "id": 8,
+      "userId": 8,
+      "bio": "",
+      "photo": "",
+      "symbol": "",
+      "citiesId": 8,
+      "partnersName": "Miss Martian",
+      "partnersSymbol": ""
+    }
+  ],
+  "requests": [
+    {
+      "id": 1,
+      "userId": 10,
+      "description": "The city is on fire",
+      "citiesId": 4,
+      "specificLocation": "Everywhere",
+      "superVillianPresent": true,
+      "superVillianName": "Mongul and Cyborg Superman",
+      "heroesId": null
+    },
+    {
+      "id": 2,
+      "userId": 11,
+      "description": "The Flash Museum is being robbed",
+      "citiesId": 5,
+      "specificLocation": "The Flash Museum",
+      "superVillianPresent": true,
+      "superVillianName": "The Rogues",
+      "heroesId": 5
+    },
+    {
+      "id": 3,
+      "userId": 11,
+      "description": "Lost my wallet",
+      "citiesId": 5,
+      "specificLocation": "Dont know where",
+      "superVillianPresent": false,
+      "superVillianName": null,
+      "heroesId": null
+    },
+    {
+      "userId": 10,
+      "description": "Amazo is attacking the city",
+      "specificLocation": "LexCorp Tower",
+      "citiesId": 1,
+      "superVillianPresent": true,
+      "superVillianName": "Amazo",
+      "heroesId": 1,
+      "id": 4
+    },
+    {
+      "userId": 10,
+      "description": "Theres a dolphin making noise",
+      "specificLocation": "In the water",
+      "citiesId": 6,
+      "heroesId": null,
+      "id": 5,
+      "superVillianPresent": false,
+      "superVillianName": ""
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "name": "Metropolis",
+      "bio": "",
+      "photo": ""
+    },
+    {
+      "id": 2,
+      "name": "Gotham City",
+      "bio": "",
+      "photo": ""
+    },
+    {
+      "id": 3,
+      "name": "Washington D.C.",
+      "bio": "",
+      "photo": ""
+    },
+    {
+      "id": 4,
+      "name": "Coast City",
+      "bio": "",
+      "photo": ""
+    },
+    {
+      "id": 5,
+      "name": "Central City",
+      "bio": "",
+      "photo": ""
+    },
+    {
+      "id": 6,
+      "name": "Amnesty Bay",
+      "bio": "",
+      "photo": ""
+    },
+    {
+      "id": 7,
+      "name": "Star City",
+      "bio": "",
+      "photo": ""
+    },
+    {
+      "id": 8,
+      "name": "The Watchtower",
+      "bio": "",
+      "photo": ""
+    }
+  ]
+}
