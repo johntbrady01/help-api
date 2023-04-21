@@ -104,6 +104,13 @@
       "email": "diggle@queen.industries.com",
       "isHero": false,
       "isAdmin": false
+    },
+    {
+      "id": 16,
+      "name": "No one",
+      "email": "noOne@wgmail.com",
+      "isHero": true,
+      "isAdmin": false
     }
   ],
   "citizens": [
@@ -230,58 +237,68 @@
       "citiesId": 8,
       "partnersName": "Miss Martian",
       "partnersSymbol": ""
+    },
+    {
+      "id": 9,
+      "userId": 16,
+      "bio": "",
+      "photo": "",
+      "symbol": "",
+      "citiesId": 8,
+      "partnersName": "",
+      "partnersSymbol": ""
     }
   ],
   "requests": [
     {
-      "id": 1,
       "userId": 10,
-      "description": "The city is on fire",
+      "description": "There is a giant spaceship over the city",
+      "specificLocation": "In the sky",
       "citiesId": 4,
-      "specificLocation": "Everywhere",
       "superVillianPresent": true,
       "superVillianName": "Mongul and Cyborg Superman",
-      "heroesId": null
-    },
-    {
-      "id": 2,
-      "userId": 11,
-      "description": "The Flash Museum is being robbed",
-      "citiesId": 5,
-      "specificLocation": "The Flash Museum",
-      "superVillianPresent": true,
-      "superVillianName": "The Rogues",
-      "heroesId": 5
-    },
-    {
-      "id": 3,
-      "userId": 11,
-      "description": "Lost my wallet",
-      "citiesId": 5,
-      "specificLocation": "Dont know where",
-      "superVillianPresent": false,
-      "superVillianName": null,
-      "heroesId": null
+      "heroesId": 4,
+      "id": 1
     },
     {
       "userId": 10,
-      "description": "Amazo is attacking the city",
-      "specificLocation": "LexCorp Tower",
-      "citiesId": 1,
+      "description": "There is a dolphin being really noisy ",
+      "specificLocation": "Somewhere in the water",
+      "citiesId": 6,
+      "superVillianPresent": false,
+      "superVillianName": "",
+      "heroesId": 9,
+      "id": 2
+    },
+    {
+      "userId": 11,
+      "description": "The Flash Museum is being robbed",
+      "specificLocation": "The Flash Museum",
+      "citiesId": 5,
       "superVillianPresent": true,
-      "superVillianName": "Amazo",
-      "heroesId": 1,
+      "superVillianName": "The Rogues ",
+      "heroesId": 9,
+      "id": 3
+    },
+    {
+      "userId": 11,
+      "description": "I lost my wallet ",
+      "specificLocation": "Somewhere in the city",
+      "citiesId": 5,
+      "superVillianPresent": false,
+      "superVillianName": "",
+      "heroesId": 9,
       "id": 4
     },
     {
-      "userId": 10,
-      "description": "Theres a dolphin making noise",
-      "specificLocation": "In the water",
-      "citiesId": 6,
-      "heroesId": null,
-      "id": 5,
+      "userId": 11,
+      "description": "I'm running late for work and I need a lift",
+      "specificLocation": "At Starbucks",
+      "citiesId": 1,
       "superVillianPresent": false,
-      "superVillianName": ""
+      "superVillianName": "",
+      "heroesId": 9,
+      "id": 5
     }
   ],
   "cities": [
