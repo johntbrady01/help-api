@@ -195,7 +195,7 @@
       "photo": "https://westfieldcomics.com/wow/art/large/JAN200547.jpg",
       "symbol": "https://logos-world.net/wp-content/uploads/2020/12/Green-Lantern-Emblem.png",
       "citiesId": 4,
-      "partnersName": "Green Lantern(John Stewart)",
+      "partnersName": "Green Lantern(JS)",
       "partnersSymbol": "https://logos-world.net/wp-content/uploads/2020/12/Green-Lantern-Emblem.png"
     },
     {
@@ -268,8 +268,8 @@
       "citiesId": 5,
       "superVillianPresent": true,
       "superVillianName": "The Rogues ",
-      "heroesId": 2,
-      "partnerSent": true,
+      "heroesId": 5,
+      "partnerSent": false,
       "id": 3
     },
     {
@@ -290,8 +290,8 @@
       "citiesId": 1,
       "superVillianPresent": false,
       "superVillianName": "",
-      "heroesId": 5,
-      "partnerSent": true,
+      "heroesId": 9,
+      "partnerSent": false,
       "id": 5
     },
     {
@@ -312,7 +312,7 @@
       "citiesId": 4,
       "superVillianPresent": true,
       "superVillianName": "Mongul and Cyborg Superman",
-      "heroesId": 9,
+      "heroesId": 4,
       "partnerSent": false,
       "id": 8
     },
@@ -374,8 +374,8 @@
     {
       "id": 8,
       "name": "The Watchtower",
-      "bio": "",
-      "photo": ""
+      "bio": "The Justice League Watchtower is the headquarters of the Justice League of America. The Watchtower was constructed of promethium and used highly advanced Martian, Thanagarian, Kryptonian and Terran technology. The arrival of Orion and Big Barda added the technology of New Genesis and Apokolips to the systems within.",
+      "photo": "https://dccontinuityproject.weebly.com/uploads/5/4/5/1/54516433/365544074_orig.jpg"
     }
   ]
 }
