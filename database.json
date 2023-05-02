@@ -257,8 +257,8 @@
       "citiesId": 6,
       "superVillianPresent": false,
       "superVillianName": "",
-      "heroesId": 9,
-      "partnerSent": false,
+      "heroesId": 6,
+      "partnerSent": true,
       "id": 2
     },
     {
@@ -269,7 +269,7 @@
       "superVillianPresent": true,
       "superVillianName": "The Rogues ",
       "heroesId": 5,
-      "partnerSent": false,
+      "partnerSent": true,
       "id": 3
     },
     {
@@ -301,8 +301,8 @@
       "citiesId": 2,
       "superVillianPresent": true,
       "superVillianName": "Two Face",
-      "heroesId": 9,
-      "partnerSent": false,
+      "heroesId": 2,
+      "partnerSent": true,
       "id": 7
     },
     {
@@ -326,6 +326,193 @@
       "heroesId": 9,
       "partnerSent": false,
       "id": 9
+    },
+    {
+      "userId": 15,
+      "description": "Queen Industries headquarters is being attacked",
+      "specificLocation": "Queen Industries",
+      "citiesId": 7,
+      "superVillianPresent": true,
+      "superVillianName": "Deathstroke ",
+      "heroesId": 9,
+      "partnerSent": false,
+      "id": 10
+    },
+    {
+      "userId": 15,
+      "description": "Wreck on the bridge",
+      "specificLocation": "Star Bridge",
+      "citiesId": 7,
+      "superVillianPresent": false,
+      "superVillianName": "",
+      "heroesId": 9,
+      "partnerSent": false,
+      "id": 11
+    },
+    {
+      "userId": 15,
+      "description": "Museum being robbed",
+      "specificLocation": "The Grell Museum",
+      "citiesId": 7,
+      "superVillianPresent": true,
+      "superVillianName": "League of Assassins ",
+      "heroesId": 9,
+      "partnerSent": false,
+      "id": 12
+    },
+    {
+      "userId": 13,
+      "description": "Cheetah is running through the city",
+      "specificLocation": "The streets ",
+      "citiesId": 3,
+      "superVillianPresent": true,
+      "superVillianName": "Cheetah ",
+      "heroesId": 3,
+      "partnerSent": false,
+      "id": 13
+    },
+    {
+      "userId": 13,
+      "description": "There are greek gods at the Capitol Building",
+      "specificLocation": "Capitol Buidling",
+      "citiesId": 3,
+      "superVillianPresent": true,
+      "superVillianName": "Ares",
+      "heroesId": 3,
+      "partnerSent": true,
+      "id": 14
+    },
+    {
+      "userId": 13,
+      "description": "I dropped my ice-cream cone",
+      "specificLocation": "At Ben&Jerry's",
+      "citiesId": 3,
+      "superVillianPresent": false,
+      "superVillianName": "",
+      "heroesId": 9,
+      "partnerSent": false,
+      "id": 15
+    },
+    {
+      "userId": 12,
+      "description": "Bizarro is flying through the skies",
+      "specificLocation": "Above the city",
+      "citiesId": 1,
+      "superVillianPresent": true,
+      "superVillianName": "Bizarro",
+      "heroesId": 2,
+      "partnerSent": true,
+      "id": 16
+    },
+    {
+      "userId": 14,
+      "description": "An Atlantean army is attacking the city",
+      "specificLocation": "The boardwalk",
+      "citiesId": 6,
+      "superVillianPresent": true,
+      "superVillianName": "Orm",
+      "heroesId": 6,
+      "partnerSent": false,
+      "id": 17
+    },
+    {
+      "userId": 14,
+      "description": "There is a submarine firing missiles at the city",
+      "specificLocation": "The water",
+      "citiesId": 6,
+      "superVillianPresent": true,
+      "superVillianName": "Black Manta",
+      "heroesId": 6,
+      "partnerSent": false,
+      "id": 18
+    },
+    {
+      "userId": 9,
+      "description": "The Mayor was murdered ",
+      "specificLocation": "Capitol Building",
+      "citiesId": 2,
+      "superVillianPresent": true,
+      "superVillianName": "The Joker",
+      "heroesId": 9,
+      "partnerSent": false,
+      "id": 19
+    },
+    {
+      "userId": 10,
+      "description": "People keep disappearing ",
+      "specificLocation": "All around",
+      "citiesId": 5,
+      "superVillianPresent": true,
+      "superVillianName": "The Reverse Flash",
+      "heroesId": 5,
+      "partnerSent": false,
+      "id": 20
+    },
+    {
+      "userId": 11,
+      "description": "I saw a minotaur ",
+      "specificLocation": "By The White House",
+      "citiesId": 3,
+      "superVillianPresent": false,
+      "superVillianName": "",
+      "heroesId": 9,
+      "partnerSent": false,
+      "id": 22
+    },
+    {
+      "userId": 12,
+      "description": "Doomsday is rampaging and destroying the city",
+      "specificLocation": "Centennial Park",
+      "citiesId": 1,
+      "superVillianPresent": true,
+      "superVillianName": "Doomsday",
+      "heroesId": 1,
+      "partnerSent": false,
+      "id": 23
+    },
+    {
+      "userId": 12,
+      "description": "Lex Luthor is up to no good",
+      "specificLocation": "LexCorp Towers",
+      "citiesId": 1,
+      "superVillianPresent": true,
+      "superVillianName": "Lex Luthor",
+      "heroesId": 9,
+      "partnerSent": false,
+      "id": 24
+    },
+    {
+      "userId": 11,
+      "description": "Robin was captured",
+      "specificLocation": "An abandoned warehouse ",
+      "citiesId": 2,
+      "superVillianPresent": true,
+      "superVillianName": "The Joker",
+      "heroesId": 9,
+      "partnerSent": false,
+      "id": 25
+    },
+    {
+      "userId": 10,
+      "description": "I want to pet Krypto the Superdog ",
+      "specificLocation": "At the park",
+      "citiesId": 1,
+      "superVillianPresent": false,
+      "superVillianName": "",
+      "heroesId": 1,
+      "partnerSent": true,
+      "id": 26
+    },
+    {
+      "userId": 10,
+      "description": "Sinestro Corps is attacking",
+      "specificLocation": "Ferris Air",
+      "citiesId": 4,
+      "superVillianPresent": true,
+      "superVillianName": "Sinestro and Arkillo",
+      "heroesId": 9,
+      "partnerSent": false,
+      "id": 27
     }
   ],
   "cities": [
